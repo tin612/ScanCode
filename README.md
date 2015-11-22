@@ -5,5 +5,7 @@ This project use Zxing Embedded Library to implement scan function
  # Day 1 : 17/11/2015 
   - Implement project
   - Target API : Android API level 23 (Marshmallow)
-  - Minimum API : Android API level 8 (Froyo)
+  - Minimum API : Android API level 15 (IceCream Sandwich)
+ # Day 2 : 22/11/2015
+  - Complete Scan function
 
